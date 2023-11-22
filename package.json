@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/DamianoCasolari/prismajs-blog/issues"
   },
-  "homepage": "https://github.com/DamianoCasolari/prismajs-blog#readme"
+  "homepage": "https://github.com/DamianoCasolari/prismajs-blog#readme",
+  "devDependencies": {
+    "prisma": "^5.6.0"
+  },
+  "dependencies": {
+    "@prisma/client": "^5.6.0"
+  }
 }
